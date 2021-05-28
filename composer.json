@@ -1,5 +1,5 @@
 {
-  "name": "ankitpokhrel/tus-php",
+  "name": "angrybytes/tus-php",
   "description": "A pure PHP server and client for the tus resumable upload protocol v1.0.0",
   "type": "library",
   "license": "MIT",
@@ -7,8 +7,16 @@
     {
       "name": "Ankit Pokhrel",
       "email": "hello@ankit.pl"
+    },
+    {
+      "name": "Angry Bytes BV",
+      "email": "info@angrybytes.com",
+      "homepage": "https://angrybytes.com/"
     }
   ],
+  "support": {
+    "email": "support@angrybytes.com"
+  },
   "require": {
     "php": "^7.2.5 || ^8.0",
     "ext-json": "*",
